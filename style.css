@@ -1,0 +1,37 @@
+/* Add your custom CSS styling here */
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f8f9fa;
+  color: #343a40;
+  margin: 0;
+  padding: 0;
+}
+
+/* Customize additional styles as needed */
+
+/* Adjustments for better spacing */
+section {
+  padding: 40px 0;
+}
+
+/* Style for the contact form */
+#contactForm {
+  max-width: 600px;
+  margin: auto;
+}
+.bio {
+  display: flex;
+  gap: 10%;
+}
+.img {
+  height: 80%;
+  width: 60%;
+}
+.para {
+  width: 80%;
+  padding-top: 20px;
+  font-size: 20px;
+}
+.bgcolor {
+  background-color: lightgoldenrodyellow;
+}
